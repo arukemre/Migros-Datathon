@@ -8,7 +8,13 @@ for this purpose, Migros want to a model that getting the best-predicted result 
 ```
 Migros-datathon/
 ├─ data/
-
+|─ migros-datathon-2022.ipynb/
+  
+  |─Data Preview
+  |─Data preprocessing
+  |─Data preprocessing  and Feature Engineering stages
+  |─ XGBOOST MODEL
+  |─ Model optimization with optuna
 ```
 
 ## Dataset Descriptions
