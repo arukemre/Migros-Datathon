@@ -5,3 +5,15 @@ Hi everyone.I want to briefly introduce this competition and the organizer of th
 for this purpose, Migros want to a model that getting the best-predicted result taking into account the f1 score
 
 
+```
+anadolu-hayat-emeklilik-datathon/
+├─ data/
+├─ eda/
+├─ models/
+│  ├─ lightgbm/
+│  ├─ xgboost/
+├─ src/
+├─ .gitignore
+├─ requirements.txt
+├─ README.md
+```
