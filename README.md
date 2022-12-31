@@ -1,7 +1,7 @@
 
-<img src= "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2021/06/16/thumbs_b_c_f1ce0aaa337c87d94d34c071f1627a1a.jpg" alt ="Titanic" style='width: 1500;'>
+<img src= "https://www.migroskurumsal.com/dist/images/thumbnail-srk-7134.jpg" alt ="Titanic" style='width: 1500;'>
 
-
+https://www.migroskurumsal.com/dist/images/thumbnail-srk-7134.jpg
 # Migros DATATHON
 ## Project descriptions 
 
