@@ -1,4 +1,4 @@
-<img src= "![image](https://user-images.githubusercontent.com/64266044/210149165-ff31f09a-ba71-4a90-8356-66e99d1153b9.png)" alt ="Titanic" style='width: 15000;'>
+<img src= "![image]https://user-images.githubusercontent.com/64266044/210149165-ff31f09a-ba71-4a90-8356-66e99d1153b9.png" alt ="Titanic" style='width: 15000;'>
 
 # Migros DATATHON
 ## Project descriptions 
