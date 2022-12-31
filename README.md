@@ -1,7 +1,6 @@
 
 <img src= "https://www.migroskurumsal.com/dist/images/thumbnail-srk-7134.jpg" alt ="Titanic" style='width: 1500;'>
 
-https://www.migroskurumsal.com/dist/images/thumbnail-srk-7134.jpg
 # Migros DATATHON
 ## Project descriptions 
 
