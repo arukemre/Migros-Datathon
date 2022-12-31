@@ -1,5 +1,5 @@
 
-<img src= "[https://www.wvnstv.com/wp-content/uploads/sites/76/2022/02/Outage-file-image.jpg](https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2021/06/16/thumbs_b_c_f1ce0aaa337c87d94d34c071f1627a1a.jpg)" alt ="Titanic" style='width: 15000;'>
+<img src= "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2021/06/16/thumbs_b_c_f1ce0aaa337c87d94d34c071f1627a1a.jpg" alt ="Titanic" style='width: 15000;'>
 
 
 # Migros DATATHON
