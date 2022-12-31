@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img src= "[https://www.wvnstv.com/wp-content/uploads/sites/76/2022/02/Outage-file-image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aa.com.tr%2Ftr%2Fsirkethaberleri%2Fperakende%2Fmigros-money-gold-uyelerine-ozel-firsat-ve-hizmetler-sunuluyor%2F665584&psig=AOvVaw2mLevHx8kKbhzmzkk_D5aE&ust=1672588638831000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjBj7CcpPwCFQAAAAAdAAAAABAE)" alt ="Titanic" style='width: 15000;'>
 
 # Migros DATATHON
 ## Project descriptions 
