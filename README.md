@@ -9,9 +9,9 @@ for this purpose, Migros want to a model that getting the best-predicted result 
 
 
 ```
-Migros-datathon/
-├─ data/
-|─ migros-datathon-2022.ipynb/
+Migros-datathon
+├─ Migros data
+|─ migros-datathon-2022.ipynb
   
   |─Data Preview
   |─Data preprocessing
