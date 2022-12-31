@@ -24,7 +24,7 @@ Migros-datathon/
 
 
 
-'Train/Test'
+"Train/Test"
 * individualnumber: Customer's contact number
 * category_number: Campaign category from which the campaign was launched.
 * hakkedis_amt: The minimum amount of expenditure (TL) that must be made in the specified category in order to benefit from the campaign.
