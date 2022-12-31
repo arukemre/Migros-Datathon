@@ -6,14 +6,7 @@ for this purpose, Migros want to a model that getting the best-predicted result 
 
 
 ```
-anadolu-hayat-emeklilik-datathon/
+Migros-datathon/
 ├─ data/
-├─ eda/
-├─ models/
-│  ├─ lightgbm/
-│  ├─ xgboost/
-├─ src/
-├─ .gitignore
-├─ requirements.txt
-├─ README.md
+
 ```
